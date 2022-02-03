@@ -3,5 +3,6 @@ public class RunThing {
         System.out.println("Welcome to the Thing");
         Thing t = new Thing("Program", 14);
         t.doThing();
+        System.out.println("We did a thing!");
     }
 }
